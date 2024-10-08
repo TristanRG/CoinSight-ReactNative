@@ -2,7 +2,7 @@
 
 ## Description:
 
-Welcome to my Crypto Tracking App! This React Native application allows users to track the prices and performance of various cryptocurrencies. Users can view detailed information about specific cryptocurrencies, save their favorites, and toggle settings like notifications, location services, and dark mode. The app is designed to be user-friendly, offering real-time data and customizable options to enhance the user experience.
+Welcome to my Crypto Tracking WebSite! This React Native website allows users to track the prices and performance of various cryptocurrencies. Users can view detailed information about specific cryptocurrencies, save their favorites, and toggle settings like notifications, location services, and dark mode. The app is designed to be user-friendly, offering real-time data and customizable options to enhance the user experience.
 
 ## Project Structure:
 
